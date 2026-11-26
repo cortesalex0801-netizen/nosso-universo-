@@ -1,11 +1,9 @@
-NOSSO UNIVERSO — VERSÃO PARA ABRIR NO GOOGLE CHROME
+NOSSO UNIVERSO — VERSÃO REORGANIZADA
 
-COMO ABRIR NO CELULAR OU COMPUTADOR
-1. Extraia/descompacte este arquivo ZIP.
-2. Abra a pasta Nosso_Universo_Chrome.
-3. Toque/clique em index.html e escolha Google Chrome.
+Abra index.html para testar. Para publicar no GitHub Pages, envie index.html, style.css, script.js e a pasta assets para a raiz do repositório.
 
-IMPORTANTE
-Não mova o index.html para fora desta pasta: style.css, script.js e a pasta assets
-precisam permanecer juntos para que o visual, as fotos, os vídeos e a música funcionem.
-A música começa quando você toca em “Entrar no universo”.
+A pintura original de Rapunzel e Flynn no barco foi recuperada do arquivo nosso site.zip e está em assets/rapunzel-flynn-barco.jpg. A imagem de lanternas, torre e castelo fica em assets/fundo-enrolados.jpg.
+
+A pasta referencias-originais guarda os demais arquivos encontrados no ZIP nosso site.zip, sem alterar os originais.
+
+A música começa após tocar em “Entrar no nosso universo”, conforme a restrição de reprodução automática dos navegadores.
