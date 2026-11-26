@@ -1,0 +1,11 @@
+NOSSO UNIVERSO — VERSÃO PARA ABRIR NO GOOGLE CHROME
+
+COMO ABRIR NO CELULAR OU COMPUTADOR
+1. Extraia/descompacte este arquivo ZIP.
+2. Abra a pasta Nosso_Universo_Chrome.
+3. Toque/clique em index.html e escolha Google Chrome.
+
+IMPORTANTE
+Não mova o index.html para fora desta pasta: style.css, script.js e a pasta assets
+precisam permanecer juntos para que o visual, as fotos, os vídeos e a música funcionem.
+A música começa quando você toca em “Entrar no universo”.
